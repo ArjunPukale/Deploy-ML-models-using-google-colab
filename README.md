@@ -9,7 +9,7 @@ Steps:
 1.Train your machine learning/ deep learning model and save the model to your google drive.<br>
 2.Create a new colab notebook for the client, which will contain the following:<br>
  .Mount clients drive to the colab<br>
- .Create a new folder in theclients drive for the project.<br>
+ .Create a new folder in the clients drive for the project.<br>
  .Now download and move the saved model from your google drive to clients drive using the saved model files sharable id<br>
  .Load the saved model from clients drive to the colab noebook<br>
  .Create an appropriate predict function for taking input from client and using the saved model make predictions and give output.<br>
