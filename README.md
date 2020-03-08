@@ -6,7 +6,7 @@ contact: arjunpukale@gmail.com
 Linkedin: www.linkedin.com/in/arjunpukale
 
 Steps:
-1.Train your machine learning/ deep learning model and save the model to your google drive.
+1.Train your machine learning/ deep learning model and save the model to your google drive.<br>
 2.Create a new colab notebook for the client, which will contain the following:
  .Mount clients drive to the colab
  .Create a new folder in theclients drive for the project.
